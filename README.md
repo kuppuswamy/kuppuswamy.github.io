@@ -1,2 +1,4 @@
-## Insights
-1. [AI Assisted Development vs Vibe Coding](/insights/ai-assisted-development-vs-vibe-coding)
+## Posts
+{% for post in site.posts %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
