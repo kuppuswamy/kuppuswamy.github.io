@@ -1,9 +1,13 @@
 ---
-title: "Vibe Coding vs AI-Assisted Development: Why Coherent Software Still Requires Human Design"
+title: "Vibe Coding vs AI-Assisted Development: Why Coherent Software Systems Still Require Human Design"
 date: 2026-03-04
 ---
 
-# Vibe Coding vs AI-Assisted Development: Why Coherent Software Still Requires Human Design
+# Vibe Coding vs AI-Assisted Development: Why Coherent Software Systems Still Require Human Design
+
+*5 min read*
+
+![Vibe Coding vs AI-Assisted Development](/assets/images/vibe-coding-ai-assisted-development.png)
 
 > AI can accelerate coding.  
 > But coherent software systems are still designed by humans.
@@ -13,13 +17,20 @@ intuition, AI tools, and quick coding iterations.
 
 But there is an important misunderstanding around what vibe coding actually implies.
 
+## Table of Contents
+
+{:toc}
+
 ## The Misunderstanding Behind Vibe Coding
 
 Some people interpret vibe coding as if it can automatically produce a **complete product with coherent design and
 architecture** simply by coding quickly with AI assistance.
 
-In reality, such coherence does not emerge automatically from vibe coding alone. It still requires **intentional design
-and human-grade decision making**.
+Some even believe that vibe coding can quickly produce a **production-ready application capable of generating massive
+success or revenue**.
+
+In reality, such outcomes are rare. Sustainable software systems achieve meaningful success only when they **solve a
+real problem and are built on coherent design defined by humans**.
 
 Product ideas should be validated through implementations built on a **coherent design defined by humans, preserving the
 system’s domain integrity and enabling the system to correctly address the real problem it intends to solve**.
