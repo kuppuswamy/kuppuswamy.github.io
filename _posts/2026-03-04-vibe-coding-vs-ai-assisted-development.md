@@ -7,8 +7,6 @@ date: 2026-03-04
 
 *5 min read*
 
-![Vibe Coding vs AI-Assisted Development](/assets/images/vibe-coding-ai-assisted-development.png)
-
 > AI can accelerate coding.  
 > But coherent software systems are still designed by humans.
 
@@ -16,10 +14,6 @@ Everyone is talking about **“vibe coding”** in the AI era — the idea that 
 intuition, AI tools, and quick coding iterations.
 
 But there is an important misunderstanding around what vibe coding actually implies.
-
-## Table of Contents
-
-{:toc}
 
 ## The Misunderstanding Behind Vibe Coding
 
