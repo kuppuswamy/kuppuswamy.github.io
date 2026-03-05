@@ -18,11 +18,11 @@ But there is an important misunderstanding around what vibe coding actually impl
 Some people interpret vibe coding as if it can automatically produce a **complete product with coherent design and
 architecture** simply by coding quickly with AI assistance.
 
-In reality, such coherence does not emerge automatically from vibe coding alone; it still requires **intentional design
+In reality, such coherence does not emerge automatically from vibe coding alone. It still requires **intentional design
 and human-grade decision making**.
 
 Product ideas should be validated through implementations built on a **coherent design defined by humans, preserving the
-system’s domain integrity**.
+system’s domain integrity and enabling the system to correctly address the real problem it intends to solve**.
 
 Without such coherence, **vibe coding can easily degenerate into chaotic development**, and sustainable software rarely
 emerges from chaos.
@@ -32,22 +32,22 @@ emerges from chaos.
 To better understand this difference, it is useful to contrast **vibe coding** with **AI-assisted development**.
 
 Vibe coding often emphasizes quick coding iterations, loose structure, and rapid feature assembly. While this may help
-developers explore product opportunities quickly, it can easily overlook one of the most critical aspects of software
-engineering: **design coherency**.
+developers **explore product opportunities quickly**, it can easily overlook one of the most critical aspects of
+software engineering: **design coherency**.
 
 Successful and scalable software usually emerges from **AI-assisted development**, where developers still move quickly
-but maintain **human-defined domain boundaries, consistent models, and coherent system design**, while using AI to
-accelerate implementation.
+but maintain **human-defined domain boundaries, consistent models, and coherent system design that accurately represents
+the real problem being solved**, while using AI to accelerate implementation.
 
 AI can accelerate coding, suggest patterns, and automate repetitive tasks. But **innovation in product ideas, along with
-decisions about domain modeling, invariants, system boundaries, and system design coherency**, still requires **human
-reasoning and contextual judgment**.
+decisions about domain modeling, invariants, system boundaries, and system design coherency — which ultimately determine
+a system’s scalability, maintainability, and security — still requires human reasoning and contextual judgment**.
 
 ## Examples of Coherent Systems
 
 Even extremely simple products like **Flappy Bird** succeeded not because they were the result of chaotic development,
 but because they were conceptually coherent — one mechanic, one loop, one objective — a simplicity that reflects **clear
-human design decisions**.
+human design decisions aligned with the core problem the game was meant to solve**.
 
 Similarly, companies like **Calendly** scaled because their **human-designed domain model and product logic remained
 coherent and consistent as the system evolved**.
