@@ -3,8 +3,6 @@ title: "Vibe Coding vs AI-Assisted Development: Why Coherent Software Systems St
 date: 2026-03-04
 ---
 
-# Vibe Coding vs AI-Assisted Development: Why Coherent Software Systems Still Require Human Design
-
 *5 min read*
 
 > AI can accelerate coding.  
